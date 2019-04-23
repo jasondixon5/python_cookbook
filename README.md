@@ -1,1 +1,1 @@
-practice of book Python Cook book by David Beazley and Brain K. Jones
+Practice of book Python Cookbook (3rd ed) by David Beazley and Brain K. Jones
